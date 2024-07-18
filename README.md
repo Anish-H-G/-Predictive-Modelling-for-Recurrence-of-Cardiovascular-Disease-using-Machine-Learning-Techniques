@@ -1,4 +1,4 @@
-# -Predictive-Modelling-for-Recurrence-of-Cardiovascular-Disease-using-Machine-Learning-Techniques
+# Predictive-Modelling-for-Recurrence-of-Cardiovascular-Disease-using-Machine-Learning-Techniques
 Developed and evaluated predictive models using Support Vector Machines, Naïve Bayes, and Random Forest algorithms to improve early detection of recurrent cardiovascular events. • Implemented data preprocessing, feature selection, and model evaluation with scikit-learn, and deployed the final model using Streamlit for interactive use
 
 
